@@ -43,6 +43,7 @@ In order to capture opening of Skype/Lync URLs, I'm using Browser Fairy which is
 
 # References
 
+* [Download](https://github.com/jaroslawhartman/Param2Clipboard/releases)
 * [Platypus](https://sveinbjorn.org/platypus)
 * [Browser Fairy](http://www.browserfairy.com/)
 * [Icon by Robb](https://dribbble.com/shots/1648648-Clipboard-Icon)
